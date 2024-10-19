@@ -1,0 +1,1 @@
+Small repo to simply illustrate the benefit of using regularization for Linear Regression when there is high dimensionality.
